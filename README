@@ -1,0 +1,39 @@
+------------------- Project Setup ----------------------
+1. create a folder fun-chat
+    then initilize the git inside it
+2. create 2 folders(backend , frontend) inside fun-chat
+3. go inside frontend and create a vite@latest project
+4. come to fun-chat and type npm "npm init"
+5. create server.js inside backend folder 
+
+6. come to backend folder do the following _________
+
+install some packages in backend project like :- 
+express,dotenv,cookie-parser , bcryptjs , 
+mongoose , socket.it , jsonwebtoken
+
+express :- to initialize a web server
+dotenv :- to store environment variables
+cookie-parser :- to parse the cookies
+bcryptjs :- to convert the passowrds into hashpasswords
+mongoose :- to connect with mongodb server
+socket.io :- to create realtime communication 
+jsonwebtoken :- to create socket.io tokens
+
+* and install nodemon as dev dependency *
+
+7. Now test your express with a simple "/" route
+
+--------------------- Project Setup -----------------------
+
+------------------  api for random user Avatar ----------------- 
+#        https://avatar-placeholder.iran.liara.run/
+------------------ api for random user Avatar  -----------------
+
+-------- code to generate random string from terminal ----------------------
+#    opnessl rand -base64 32
+-------- code to generate random string from terminal ----------------------
+
+8. come to frontend folder and do the following ___________________
+
+
