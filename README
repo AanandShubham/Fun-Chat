@@ -20,20 +20,25 @@ mongoose :- to connect with mongodb server
 socket.io :- to create realtime communication 
 jsonwebtoken :- to create socket.io tokens
 
-* and install nodemon as dev dependency *
+--- and install nodemon as dev dependency *
 
 7. Now test your express with a simple "/" route
 
 --------------------- Project Setup -----------------------
 
 ------------------  api for random user Avatar ----------------- 
-#        https://avatar-placeholder.iran.liara.run/
+#       https://avatar-placeholder.iran.liara.run/
 ------------------ api for random user Avatar  -----------------
 
 -------- code to generate random string from terminal ----------------------
-#    opnessl rand -base64 32
+#       opnessl rand -base64 32
 -------- code to generate random string from terminal ----------------------
 
 8. come to frontend folder and do the following ___________________
+    -- setup tailwind as you want 
+    -- install dazyui for already created ui templates 
+       you can make it by your self without dazyui 
+       i'm making it becouse i want to learn the use of dazyui ---
+    -- install react 
 
 
