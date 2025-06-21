@@ -39,6 +39,8 @@ jsonwebtoken :- to create socket.io tokens
     -- install dazyui for already created ui templates 
        you can make it by your self without dazyui 
        i'm making it becouse i want to learn the use of dazyui ---
-    -- install react 
+    -- install react-icons
+    -- install react-router-dom :- to handle routes on page like(login,signup)
+    
 
 
